@@ -1,6 +1,6 @@
 print("This is ver_new")
 
-a = 333
-b = 777
+a = 3333
+b = 7777
 
 print(a+b)
