@@ -1,6 +1,6 @@
 print("This is ver2")
 
-a = 10
-b = 10
+a = 2
+b = 8
 
 print(a+b)
